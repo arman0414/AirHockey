@@ -1,6 +1,6 @@
 # Air Hockey
 
-Neon‑styled air hockey built with SpriteKit. Fast rounds, power‑ups, and sleek visuals.
+Air hockey built with SpriteKit. Fast rounds, power‑ups, and sleek visuals.
 
 ## Highlights
 - PvP and CPU modes (Easy / Medium / Hard)
