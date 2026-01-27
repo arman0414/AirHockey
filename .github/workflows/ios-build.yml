@@ -17,6 +17,6 @@ jobs:
             -project "AirHockey.xcodeproj" \
             -scheme "AirHockey iOS" \
             -sdk iphonesimulator \
-            -destination "platform=iOS Simulator" \
+            -destination "generic/platform=iOS Simulator" \
             build \
             CODE_SIGNING_ALLOWED=NO
