@@ -1,0 +1,16 @@
+.DS_Store
+
+# Xcode
+DerivedData/
+build/
+*.xcworkspace
+!AirHockey.xcodeproj/project.xcworkspace
+xcuserdata/
+*.xcuserstate
+*.xcbkptlist
+
+# SwiftPM
+.swiftpm/
+
+# Logs
+*.log
