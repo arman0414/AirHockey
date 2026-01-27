@@ -1,6 +1,6 @@
 # Air Hockey
 
-Air hockey built with SpriteKit. Fast rounds, power‑ups, and sleek visuals.
+Air Hockey.
 
 ## Highlights
 - PvP and CPU modes (Easy / Medium / Hard)
