@@ -14,23 +14,6 @@
 		CBEC57FE2E63005700D105AF /* Exceptions for "AirHockey Shared" folder in "AirHockey iOS" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				Achievements.swift,
-				AchievementsScene.swift,
-				Actions.sks,
-				Assets.xcassets,
-				Customization.swift,
-				CustomizationScene.swift,
-				GameMode.swift,
-				GameScene.sks,
-				GameScene.swift,
-				HapticsManager.swift,
-				HomeScene.swift,
-				PowerUp.swift,
-				SettingScene.swift,
-				SoundManager.swift,
-				Statistics.swift,
-				StatsScene.swift,
-				Theme.swift,
 			);
 			target = CBEC57EC2E63005700D105AF /* AirHockey iOS */;
 		};
