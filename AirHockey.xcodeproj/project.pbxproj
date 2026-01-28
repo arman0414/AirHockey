@@ -80,6 +80,7 @@
 			);
 			fileSystemSynchronizedGroups = (
 				CBEC57EF2E63005700D105AF /* AirHockey iOS */,
+				CBEC57E42E63005400D105AF /* AirHockey Shared */,
 			);
 			name = "AirHockey iOS";
 			packageProductDependencies = (
